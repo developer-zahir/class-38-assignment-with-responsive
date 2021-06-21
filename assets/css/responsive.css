@@ -99,6 +99,8 @@ body {
   #hide_show,
   #hide_show_icon {
     display: block;
+  cursor: pointer;
+
   }
   .fixed-with {
     width: 787px;
